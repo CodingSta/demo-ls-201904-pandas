@@ -1,5 +1,10 @@
 # (LS그룹) 파이썬 활용 데이터 분석 과정
 
+## Datasets
+
++ Wine Quality Data Set
+    - http://archive.ics.uci.edu/ml/datasets/wine+quality
+
 ## 강사
 
 + Ask Company, 이진석
